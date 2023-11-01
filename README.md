@@ -29,4 +29,4 @@ This project is licensed under the MIT License, giving you the freedom to custom
 
 Transform your home into a smarter, more connected space with SmartHomeHub!
 
-![Smart Home]([https://example.com/path/to/your/smart_home_image.png](https://i.imgur.com/r5328xO.png)https://i.imgur.com/r5328xO.png)
+![Smart Home](https://i.imgur.com/r5328xO.png)
